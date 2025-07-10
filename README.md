@@ -1,13 +1,83 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamed_khodami77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamed-khodami-917557329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khodamihamed77@gmail.com) 
+## 🧠 About Me 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=hamedkhodami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedkhodami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Animated Banner GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding Animation" />
+
+</div>
+
+- 🔧 Backend engineer specialized in **Django**, **DRF**, and distributed architecture  
+- ⚙️ Expert in **Celery**, **Redis**, and async task orchestration  
+- 🐳 Skilled in containerized deployments using **Docker** and system debugging  
+- 🔐 Strong grasp of **JWT auth**, **WebSocket**, and scalable API design  
+- 🧪 Passionate about **clean code**, **test-driven development**, and robust architecture  
+- 🐧 Comfortable in **Linux environments**, with a methodical approach to migration & setup  
+- 🎨 Occasionally sparks creativity through **digital storytelling** and visual coding  
+
+## 🌐 Connect with Me
+
+## 🚀 Let's Connect and Collaborate
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/hamed-khodami-917557329">
+        <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/><br/>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/hamed_khodami77">
+        <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram"/><br/>
+        <strong>Instagram</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:khodamihamed77@gmail.com">
+        <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email"/><br/>
+        <strong>Email</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## 🚀 My Tech
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,django,redis,postgres,docker,git,github,postman,javascript,tailwind,html,css,linux" alt="Tech Stack Icons" />
+  <br/>
+  
+</div>
+
+
+## 📊 GitHub Dashboard
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hamedkhodami&show_icons=true&theme=github_dark&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamedkhodami&layout=compact&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=hamedkhodami&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamedkhodami&theme=github_dark" alt="Coding Productivity Timeline" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hamedkhodami&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
