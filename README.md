@@ -16,8 +16,6 @@
 
 ## 🌐 Connect with Me
 
-## 🚀 Let's Connect and Collaborate
-
 <table>
   <tr>
     <td align="center">
